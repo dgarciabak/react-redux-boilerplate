@@ -1,0 +1,9 @@
+html {
+  background-color: rgba(214, 210, 196, .3);
+}
+
+html, body, #root {
+  height: 100%;
+  overflow-x: hidden;
+}
+
